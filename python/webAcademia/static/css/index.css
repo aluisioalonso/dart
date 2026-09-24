@@ -1,0 +1,54 @@
+body {
+    background-color: LemonChiffon;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    display: flex;
+    text-align: center;
+    background-color: darkgreen;
+    justify-content: flex-end; /* Coloca o link no canto direito */
+    width: 100%;
+    height: 40px;
+    padding-right: 20px;
+    align-items: center;
+    box-sizing: border-box;
+}
+.conteudo {
+    background-color: Gold;
+    width: 300px;
+    height: 400px;
+    margin-left: 36%;
+    margin-top: 5%;
+    text-align: center;
+    padding-top: 5%;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+.conteudo img {
+    margin-bottom: 30px;
+}
+.botoes-container {
+    text-align: center;
+}
+.btn {
+    display: inline-block;
+    background-color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    padding-top: 5px;
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: bold;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+.btn-cadastro {
+    background-color: #5cb85c;
+    color: white;
+}
+.meulink {
+    text-decoration: none;
+}

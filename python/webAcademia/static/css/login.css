@@ -1,0 +1,49 @@
+body {
+    background-color: LemonChiffon;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.conteudo {
+    background-color: Gold;
+    width: 300px;
+    height: 380px;
+    margin-left: 36%;
+    margin-top: 5%;
+    text-align: center;
+    padding-top: 5%;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+.conteudo h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.conteudo label {
+    margin-right: 120px;
+    font-size: 14px;
+}
+.conteudo input {
+    width: 200px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.conteudo button {
+    background-color: #5cb85c;
+    color: white;
+    border-radius: 6px;
+    border: 0;
+    width: 150px;
+    height: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.meulink {
+    color: green;
+    text-decoration: none;
+    font-size: 11px;
+    display: inline-block;
+    margin-top: 15px;
+}
